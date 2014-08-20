@@ -8,8 +8,8 @@
     </resources>
 
     <dependencies>
+        <module name="javax.inject.api"/>
         <module name="javax.persistence.api" export="true"/>
-        <module name="javax.inject.api" export="true"/>
         <module name="org.hibernate" export="true"/>
         <module name="org.slf4j"/>
     </dependencies>
