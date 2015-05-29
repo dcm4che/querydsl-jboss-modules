@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.dcm4che</groupId>
   <artifactId>querydsl-jboss-modules</artifactId>
-  <version>3.2.3</version>
+  <version>3.2.3-noguava</version>
   <packaging>pom</packaging>
   <properties>
     <mysema-commons-lang.version>0.2.4</mysema-commons-lang.version>

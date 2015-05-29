@@ -20,7 +20,6 @@
         <include>com.mysema.querydsl:querydsl-core</include>
         <include>com.mysema.querydsl:querydsl-jpa</include>
         <include>com.mysema.commons:mysema-commons-lang</include>
-        <include>com.google.guava:guava</include>
       </includes>
       <useProjectArtifact>false</useProjectArtifact>
     </dependencySet>
