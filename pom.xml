@@ -7,12 +7,13 @@
   <properties>
     <mysema-commons-lang.version>0.2.4</mysema-commons-lang.version>
     <guava.version>13.0.1</guava.version>
+    <querydsl.version>3.2.3</querydsl.version>
   </properties>
   <dependencies>
     <dependency>
       <groupId>com.mysema.querydsl</groupId>
       <artifactId>querydsl-jpa</artifactId>
-      <version>3.2.3</version>
+      <version>${querydsl.version}</version>
     </dependency>
   </dependencies>
   <build>
