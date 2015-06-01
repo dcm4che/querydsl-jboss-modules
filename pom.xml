@@ -49,7 +49,7 @@
     <repository>
       <id>www.dcm4che.org</id>
       <name>dcm4che Repository</name>
-      <url>scp://www.dcm4che.org:443/home/maven2</url>
+      <url>sftp://www.dcm4che.org:443/home/maven2</url>
     </repository>
   </distributionManagement>
 </project>
