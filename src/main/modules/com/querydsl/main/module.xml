@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module xmlns="urn:jboss:module:1.1" name="com.mysema.querydsl">
+<module xmlns="urn:jboss:module:1.1" name="com.querydsl">
     <resources>
         <resource-root path="querydsl-core-${querydsl.version}.jar"/>
         <resource-root path="querydsl-jpa-${querydsl.version}.jar"/>

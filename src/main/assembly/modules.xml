@@ -15,10 +15,10 @@
   </fileSets>
   <dependencySets>
     <dependencySet>
-      <outputDirectory>/modules/com/mysema/querydsl/main</outputDirectory>
+      <outputDirectory>/modules/com/querydsl/main</outputDirectory>org.dcm4chee.archive.storage.StorageFactory.getStorage
       <includes>
-        <include>com.mysema.querydsl:querydsl-core</include>
-        <include>com.mysema.querydsl:querydsl-jpa</include>
+        <include>com.querydsl:querydsl-core</include>
+        <include>com.querydsl:querydsl-jpa</include>
         <include>com.mysema.commons:mysema-commons-lang</include>
       </includes>
       <useProjectArtifact>false</useProjectArtifact>
