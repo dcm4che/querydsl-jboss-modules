@@ -15,7 +15,7 @@
   </fileSets>
   <dependencySets>
     <dependencySet>
-      <outputDirectory>/modules/com/querydsl/main</outputDirectory>org.dcm4chee.archive.storage.StorageFactory.getStorage
+      <outputDirectory>/modules/com/querydsl/main</outputDirectory>
       <includes>
         <include>com.querydsl:querydsl-core</include>
         <include>com.querydsl:querydsl-jpa</include>
