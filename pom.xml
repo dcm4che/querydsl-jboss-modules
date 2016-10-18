@@ -2,12 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.dcm4che</groupId>
   <artifactId>querydsl-jboss-modules</artifactId>
-  <version>4.0.3-noguava</version>
+  <version>4.1.4-noguava</version>
   <packaging>pom</packaging>
   <properties>
     <mysema-commons-lang.version>0.2.4</mysema-commons-lang.version>
-    <guava.version>18.0</guava.version>
-    <querydsl.version>4.0.3</querydsl.version>
+    <querydsl.version>4.1.4</querydsl.version>
   </properties>
   <dependencies>
     <dependency>
