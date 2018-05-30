@@ -11,7 +11,7 @@ Build
 Install
 =======
 
-Unzip the content of _target/querydsl-jboss-modules-2.7.0.zip_ into the jboss root directory, e.g.
+Unzip _target/querydsl-jboss-modules-4.2.1-noguava.zip_ into the Wildfly root directory, e.g.
 ```
-unzip target/querydsl-jboss-modules-2.7.0.zip -d /jboss-as-7.1.1.Final/
+unzip target/querydsl-jboss-modules-4.2.1-noguava.zip -d ~/wildfly-12.0.0.Final/
 ```
